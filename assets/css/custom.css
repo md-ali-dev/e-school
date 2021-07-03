@@ -142,3 +142,26 @@ p{
     text-align: center;
     color: #CDCDCD;
 }
+@media (max-width: 768px) {
+    #header-body-image img{
+        display: none;
+    }
+}
+@media (max-width: 768px) {
+    #header-body-image img{
+        display: none;
+    }
+    .heading-bold{
+        font-weight: 700;
+        font-size: 32px;
+    }
+    .header-body{
+        margin-top: 50px;
+    }
+    .main-header{
+        height: 475px;
+    }
+    p{
+        line-height: 1.8;
+    }
+}
