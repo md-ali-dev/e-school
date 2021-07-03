@@ -164,4 +164,11 @@ p{
     p{
         line-height: 1.8;
     }
+    .footer p{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .footer .container{
+        margin-bottom: 20px;
+    }
 }
