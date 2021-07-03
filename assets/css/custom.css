@@ -64,7 +64,7 @@ p{
     padding: 30px 10px;
     background-color:  #F8FFFB;
 }
-#card-shadow{
+.card:hover{
     box-shadow: 0px 20px 40px 0px rgba(0, 0, 0, 0.1);
     background-color:  #fff;
 }
